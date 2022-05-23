@@ -1418,7 +1418,6 @@
 1416,Air Raid,2077,Action,2600,Men-A-Vision,Men-A-Vision,720000,40000,0,10000,770000,1,1982,0
 1417,Frogger,2078,Action,2600,Parker Bros.,Konami,2060000,120000,0,20000,2200000,1,1982,1
 1418,Assault,2079,Action,2600,Bomb,Bomb,210000,10000,0,0,220000,1,1983,0
-1419,Combat,2081,Action,2600,Atari,Atari,1170000,70000,0,10000,1250000,1,1977,1
 1420,King Kong,2084,Action,2600,Tigervision,Tigervision,650000,40000,0,10000,690000,1,1982,0
 1421,Kung-Fu Master,2085,Action,2600,Activision,Activision,600000,40000,0,10000,650000,5,1987,0
 1422,Kaboom!,2096,Action,2600,Activision,Activision,1070000,70000,0,10000,1150000,1,1981,1
@@ -1447,7 +1446,6 @@
 1445,Alien,2180,Action,2600,20th Century Fox Video Games,20th Century Fox Video Games,740000,40000,0,10000,790000,1,1982,0
 1446,Armor Ambush,2181,Action,2600,Mattel Interactive,Mattel,150000,10000,0,0,170000,1,1982,0
 1447,Astroblast,2182,Action,2600,Mattel Interactive,Mattel,290000,20000,0,0,310000,1,1982,0
-1448,Circus Atari,2195,Action,2600,Atari,Atari,430000,30000,0,0,460000,1,1978,0
 1449,Commando,2198,Action,2600,Activision,Data East,440000,20000,0,0,470000,1,1988,0
 1450,Congo Bongo,2200,Action,2600,Sega,Sega,370000,20000,0,0,400000,1,1983,0
 1451,Crazy Climber,2208,Action,2600,Atari,Atari,210000,10000,0,0,220000,1,1982,0
@@ -1459,7 +1457,6 @@
 1457,Fantastic Voyage,2229,Action,2600,20th Century Fox Video Games,20th Century Fox Video Games,320000,20000,0,0,340000,1,1982,0
 1458,Fast Food,2230,Action,2600,Unknown,Telesys,270000,20000,0,0,290000,1,1982,0
 1459,Fireball,2235,Action,2600,Unknown,Starpath Corp.,300000,20000,0,0,330000,1,1982,0
-1460,Flag Capture,2236,Action,2600,Atari,Atari,250000,20000,0,0,270000,1,1978,0
 1461,Frankenstein's Monster,2239,Action,2600,Data Age,Data Age,300000,20000,0,0,320000,1,1983,0
 1462,Freeway,2240,Action,2600,Activision,Activision,320000,20000,0,0,340000,1,1981,0
 1463,Frogger II: Threeedeep!,2241,Action,2600,Parker Bros.,Parker Bros,310000,20000,0,0,330000,1,1984,0
@@ -1474,7 +1471,6 @@
 1472,Keystone Kapers,2267,Action,2600,Activision,Activision,620000,40000,0,10000,660000,1,1983,0
 1473,Krull,2270,Action,2600,Atari,Atari,130000,10000,0,0,140000,1,1983,0
 1474,Laser Blast,2274,Action,2600,Activision,Activision,370000,20000,0,0,390000,3,1981,0
-1475,Maze Craze: A Game of Cops 'n Robbers,2283,Action,2600,Atari,Atari,420000,20000,0,0,450000,1,1978,0
 1476,Midnight Magic,2285,Action,2600,Atari,Atari,470000,30000,0,10000,500000,1,1984,0
 1477,Mountain King,2293,Action,2600,CBS Electronics,CBS Electronics,290000,20000,0,0,310000,1,1983,0
 1478,Mouse Trap,2294,Action,2600,Coleco,Coleco,380000,20000,0,0,400000,1,1982,0
@@ -1489,7 +1485,6 @@
 1487,Pressure Cooker,2323,Action,2600,Activision,Activision,140000,10000,0,0,150000,1,1983,0
 1488,Rampage,2333,Action,2600,Activision,Activision,220000,10000,0,0,240000,1,1989,0
 1489,Reactor,2334,Action,2600,Parker Bros.,Parker Bros.,210000,10000,0,0,220000,1,1982,0
-1490,Slot Machine,2361,Action,2600,Atari,Atari,290000,20000,0,0,310000,1,1979,0
 1491,Smurf: Rescue In Gargamel's Castle,2363,Action,2600,Coleco,Coleco,550000,30000,0,10000,590000,1,1982,0
 1492,The Suffering,2409,Action,PC,Encore,Surreal Software,0,0,0,0,0,6,2004,0
 1493,X-Man,2436,Action,2600,Unknown,Universal Gamex,580000,40000,0,10000,630000,1,1983,0
@@ -1952,7 +1947,6 @@
 1950,My Hero: Doctor,3788,Action,DS,Majesco,Game Life / Dream On Studio,20000,0,0,0,20000,11,2009,0
 1951,Claymore: Gingan no Majo,3789,Action,DS,Digital Works Entertainment,Digital Works Entertainment,0,0,0,0,0,6,2009,0
 1952,The Magic Roundabout,3796,Action,DS,Deep Silver,Deep Silver,0,0,0,0,0,12,2008,0
-1953,Ghostbusters II,3799,Action,2600,Unknown,Salu Ltd.,200000,10000,0,0,210000,1,1970,0
 1954,Ghostbusters: The Video Game    Read the review,3808,Action,X360,Atari,Terminal Reality,430000,140000,0,60000,620000,6,2009,0
 1955,Ghostbusters: The Video Game    Read the review,3809,Action,PS3,Atari,Terminal Reality,340000,360000,0,140000,840000,6,2009,0
 1956,Ghostbusters: The Video Game,3811,Action,PS2,Atari,Red Fly Studio,150000,40000,0,240000,430000,6,2009,0
@@ -3825,7 +3819,6 @@
 3823,The Wolf Among Us,72,Adventure,PC,Unknown,Telltale Games,0,0,0,0,1010000,2,2019,1
 3824,Return to Zork,73,Adventure,All,Infocom,Activision,0,0,0,0,1000000,9,1993,1
 3825,Don't Starve,74,Adventure,PC,Klei Entertainment,Klei Entertainment,0,0,0,0,1000000,4,2013,1
-3826,Adventure,75,Adventure,2600,Atari,Atari,0,0,0,0,1000000,1,1978,1
 3827,Danganronpa: Trigger Happy Havoc,76,Adventure,PC,Spike Chunsoft,Spike Chunsoft,0,0,0,0,1000000,2,2016,1
 3828,Detroit: Become Human,77,Adventure,PC,Quantic Dream,Quantic Dream,0,0,0,0,1000000,12,2019,1
 3829,Blade Runner,78,Adventure,PC,Virgin Interactive,Westwood Studios,0,0,0,0,1000000,11,1997,1
@@ -4385,7 +4378,6 @@
 4383,CSI: Crime Scene Investigation,1734,Adventure,PC,Ubisoft,369 Interactive,0,0,0,0,0,3,2003,0
 4384,Death Mark    Read the review,1744,Adventure,PSV,Experience Inc.,Experience Inc.,0,0,30000,0,30000,6,2017,0
 4385,Memories Off: Omoide ni Kawaru-Kun,1747,Adventure,PSP,5pb,5pb. Games,0,0,10000,0,10000,8,2008,0
-4386,Danganronpa: Trigger Happy Havoc,1754,Adventure,PSP,Unknown,Spike,0,0,240000,0,240000,1,1970,0
 4387,Myst IV: Revelation,1755,Adventure,PC,Ubisoft,Ubisoft Montreal,10000,0,0,0,10000,9,2004,0
 4388,L.A. Noire,1759,Adventure,PS4,Rockstar Games,Team Bondi,180000,320000,0,100000,600000,11,2017,0
 4389,Vampire Moon: The Mystery of the Hidden Sun,1761,Adventure,DS,City Interactive,City Interactive,120000,10000,0,10000,130000,10,2010,0
@@ -7371,7 +7363,6 @@
 7369,SingStar Dance,4090,Misc,PS3,Sony Computer Entertainment,SCEE London Studio,90000,320000,0,110000,520000,11,2010,0
 7370,Sega 3D Classics Collection,4091,Misc,3DS,Sega,M2,50000,0,0,10000,50000,4,2016,0
 7371,Pe-Jongju to Manabu Kankokugo DS: Test-Hen,4096,Misc,DS,D3 Publisher,Mobilero,0,0,20000,0,20000,8,2010,0
-7372,Check vs. Mate,4098,Misc,PS3,Unknown,TopWare Interactive,0,40000,0,10000,40000,1,1970,0
 7373,Disney Sing It: Party Hits,4104,Misc,PS3,Disney Interactive Studios,Zoe Mode,100000,10000,0,10000,120000,9,2010,0
 7374,Disney Sing It: Party Hits,4105,Misc,Wii,Disney Interactive Studios,Zoe Mode,480000,100000,0,50000,630000,9,2010,0
 7375,1000 Cooking Recipes from ELLE à table,4113,Misc,DS,Nintendo,Agenda,0,20000,0,0,30000,7,2010,0
@@ -9586,7 +9577,6 @@
 9584,Jewel Master: Cradle of Persia,1908,Puzzle,DS,Rising Star Games,Rising Star Games,0,50000,0,0,50000,7,2014,0
 9585,Aqua Panic!,1909,Puzzle,Wii,Neko Entertainment,EKO System,0,0,0,0,0,5,2009,0
 9586,Art of Murder: Hunt for the Puppeteer,1920,Puzzle,PC,City Interactive,City Interactive,0,0,0,0,0,2,2009,0
-9587,Breakaway IV,1921,Puzzle,2600,Sears,Atari,200000,10000,0,0,210000,1,1978,0
 9588,Puzzle de Harvest Moon,1923,Puzzle,DS,Natsume,Platinum Egg,120000,0,0,10000,130000,11,2007,0
 9589,Nintendo Presents: Crossword Collection,1926,Puzzle,DS,Nintendo,Nintendo,0,190000,0,20000,210000,12,2009,0
 9590,3D Lemmings,1929,Puzzle,PS,Psygnosis,Clockwork Games,30000,20000,0,0,60000,11,1995,0
@@ -9808,7 +9798,6 @@
 9806,Ms. Pac-Man,3070,Puzzle,2600,Atari,General Entertainment,1540000,100000,0,20000,1650000,1,1982,1
 9807,Jewel Link Chronicles: Mountains of Madness,3074,Puzzle,DS,Unknown,Avanquest Software,0,50000,0,10000,60000,2,2012,0
 9808,Legends of Oz: Dorothy's Return,3077,Puzzle,3DS,GameMill,"Black Lantern Studios, Inc.",0,10000,0,0,10000,4,2014,0
-9809,Hangman,3078,Puzzle,2600,Atari,Atari,350000,20000,0,0,380000,1,1978,0
 9810,Scribblenauts: Unlimited,3085,Puzzle,WiiU,Warner Bros. Interactive Entertainment,5TH Cell,250000,100000,0,40000,380000,11,2012,0
 9811,Puzzle Kingdoms,3109,Puzzle,PC,Zoo Digital Publishing,Infinite Interactive,0,0,0,0,0,4,2009,0
 9812,The Times Crossword Challenge,3124,Puzzle,DS,Atari,Sanuk Games,0,0,0,0,0,2,2009,0
@@ -10403,7 +10392,6 @@
 10401,4x4 Hummer,1410,Racing,PC,Aspyr,1C Company / Avalon Style,0,0,0,0,0,6,2009,0
 10402,Herbie: Fully Loaded,1412,Racing,GBA,Buena Vista,Climax Group,240000,90000,0,10000,340000,7,2005,0
 10403,Penny Racers Party: Turbo-Q Speedway,1417,Racing,Wii,Takara Tomy,Takara Tomy,70000,0,0,10000,80000,10,2008,0
-10404,WRC: FIA World Rally Championship,1424,Racing,PC,Unknown,Milestone S.r.l,0,10000,0,0,10000,1,1970,0
 10405,Pure (JP sales),1427,Racing,PS3,Disney Interactive Studios,Black Rock Studio,0,0,0,0,0,6,2009,0
 10406,Crime Killer,1428,Racing,PS,Interplay,Pixelogic,70000,40000,0,10000,120000,6,1998,0
 10407,Cars 2,1433,Racing,X360,Disney Interactive Studios,Avalanche Software,280000,150000,0,50000,480000,6,2011,0
@@ -11403,7 +11391,6 @@
 11401,Salt and Sanctuary,419,Role-Playing,PC,Ska Studios,Ska Studios,0,0,0,0,400000,3,2016,0
 11402,Project X Zone,420,Role-Playing,3DS,Namco Bandai Games,Banpresto,0,0,0,0,400000,6,2013,0
 11403,Ultima IV: Quest of the Avatar,421,Role-Playing,All,Origin Systems,Origin Systems,0,0,0,0,400000,11,1985,0
-11404,Temple of Apshai,422,Role-Playing,All,Automated Simulations,Automated Simulations,0,0,0,0,400000,8,1979,0
 11405,Savage Lands,423,Role-Playing,PC,Unknown,Last Bastion Studios LLC,0,0,0,0,400000,2,2019,0
 11406,Tales of Eternia,424,Role-Playing,PSP,Ubisoft,Namco,0,0,0,0,400000,2,2006,0
 11407,Tales of Legendia,425,Role-Playing,PS2,Namco,Namco / Team MelFes,0,0,0,0,400000,2,2006,0
@@ -11651,7 +11638,6 @@
 11649,Questron,669,Role-Playing,PC,Unknown,Strategic Simulations,0,0,0,0,40000,3,2021,0
 11650,Forgotten Realms: Unlimited Adventures,670,Role-Playing,All,Strategic Simulations,MicroMagic,0,0,0,0,30000,3,1993,0
 11651,Phantasie II,671,Role-Playing,All,Strategic Simulations,Strategic Simulations,0,0,0,0,30000,1,1986,0
-11652,Akalabeth,672,Role-Playing,PC,California Pacific,Top of the Orchard,0,0,0,0,30000,1,1979,0
 11653,Criminal Girls 2: Party Favors,673,Role-Playing,PSV,NIS America,Nippon Ichi Software,0,0,0,0,30000,10,2016,0
 11654,Dungeon Hack,674,Role-Playing,PC,SSI,DreamForge Intertainment,0,0,0,0,30000,1,1993,0
 11655,Dungeon Masters Assistant Volume I: Encounters,675,Role-Playing,All,Strategic Simulations,Strategic Simulations,0,0,0,0,30000,1,1989,0
@@ -12763,7 +12749,6 @@
 12761,Unreal Tournament,131,Shooter,All,GT Interactive,Epic Games,0,0,0,0,2000000,11,1999,1
 12762,Astrosmash,132,Shooter,Int,Mattel Electronics,Mattel,0,0,0,0,2000000,10,1981,1
 12763,Superhot VR,133,Shooter,All,SUPERHOT Team,SUPERHOT Team,0,0,0,0,2000000,12,2016,1
-12764,Space Invaders,134,Shooter,2600,Atari,Atari,0,0,0,0,2000000,1,1978,1
 12765,Hidden & Dangerous,135,Shooter,Series,TalonSoft,Illusion Softworks,0,0,0,0,2000000,7,1999,1
 12766,Operation Flashpoint: Cold War Crisis,136,Shooter,PC,Codemasters,Bohemia Interactive,0,0,0,0,2000000,8,2001,1
 12767,Doom II,137,Shooter,All,GT Interactive,id Software,0,0,0,0,2000000,10,1994,1
@@ -12972,7 +12957,6 @@
 12970,Blood Money,351,Shooter,All,Psygnosis,DMA Design,0,0,0,0,40000,5,1989,0
 12971,Threshold,352,Shooter,All,Sierra Entertainment,On-Line Systems,0,0,0,0,30000,1,1981,0
 12972,Gorgon,353,Shooter,OSX,Unknown,Sirius Software,0,0,0,0,20000,4,2021,0
-12973,Super Invader,354,Shooter,OSX,California Pacific,Astar International Company,0,0,0,0,20000,11,1979,0
 12974,Menace,355,Shooter,All,Psygnosis,DMA Design,0,0,0,0,20000,1,1988,0
 12975,Sneakers,356,Shooter,ApII,Sirius Software,Sirius Software,0,0,0,0,10000,7,1981,0
 12976,Choplifter,357,Shooter,All,Broderbund,Dan Gorlin,0,0,0,0,10000,5,1982,0
@@ -13456,7 +13440,6 @@
 13454,Detana TwinBee Yahho! Deluxe Pack,2879,Shooter,PS,Konami,Konami,0,0,80000,10000,90000,9,1995,0
 13455,Sega Ages 2500 Series Vol. 33: Fantasy Zone Complete Collection,2883,Shooter,PS2,Sega,M2,0,0,40000,0,40000,9,2008,0
 13456,Turok,2886,Shooter,X360,Touchstone,Propaganda Games,460000,200000,10000,70000,750000,2,2008,0
-13457,Air-Sea Battle,2890,Shooter,2600,Atari,Atari,910000,60000,0,10000,980000,1,1977,0
 13458,Doom,2905,Shooter,PS,GT Interactive,Williams Entertainment Inc.,430000,300000,0,50000,780000,11,1995,0
 13459,Wicked Monster Blast!,2906,Shooter,Wii,Valcon Games,"Corecell Technology Co.,Ltd.",40000,0,0,0,50000,6,2011,0
 13460,Solaris,2913,Shooter,2600,Atari,Atari,350000,20000,0,0,370000,7,1986,0
@@ -13736,7 +13719,6 @@
 13734,Destiny,4538,Shooter,PS3,Activision,Bungie,690000,590000,130000,260000,1670000,9,2014,1
 13735,Gun,4542,Shooter,PS2,Activision,Neversoft Entertainment,980000,40000,0,160000,1170000,11,2005,1
 13736,Hunting Simulator,4544,Shooter,NS,Bigben Interactive,Maximum Games,20000,0,0,0,20000,7,2018,0
-13737,Deep Black,4553,Shooter,PC,505 Games,BiArt Studios,0,0,0,0,10000,1,1970,0
 13738,Coded Arms,4555,Shooter,PSP,Konami,Konami,280000,290000,0,170000,750000,7,2005,0
 13739,Battlefield 4,4556,Shooter,X360,Electronic Arts,EA DICE,2160000,1050000,20000,320000,3540000,10,2013,1
 13740,Star Wars Battlefront II (US sales),4560,Shooter,PS2,LucasArts,Pandemic Studios,2180000,70000,0,20000,2270000,11,2005,1
@@ -14106,7 +14088,6 @@
 14104,Super Seducer,231,Simulation,PC,Unknown,RLR Training Inc,0,0,0,0,80000,2,2021,0
 14105,Winning Post 9 2021,232,Simulation,All,Koei Tecmo,Koei Tecmo Games,0,0,0,0,80000,4,2021,0
 14106,Super Seducer 2,233,Simulation,PC,Unknown,RLR Training Inc,0,0,0,0,40000,2,2021,0
-14107,FS1 Flight Simulator,234,Simulation,All,Sublogic,Sublogic,0,0,0,0,30000,1,1979,0
 14108,MySims Party,235,Simulation,Wii,Electronic Arts,EA Redwood Shores,170000,30000,0,20000,220000,3,2009,0
 14109,Dance Dance Revolution Extra Mix,236,Simulation,PS,Konami,KCET,0,0,20000,0,20000,6,2001,0
 14110,"Kilari: Na-san, Mon Meilleur Ami",242,Simulation,DS,Konami,Konami,0,0,120000,0,120000,4,2010,0
@@ -16191,7 +16172,6 @@
 16189,Bass Pro Shops: The Strike,4700,Sports,Wii,XS Games,Griffin International,440000,0,0,40000,480000,9,2009,0
 16190,MLB 2K9 Fantasy All-Stars,4707,Sports,DS,2K Sports,Take-Two Interactive,80000,0,0,10000,90000,3,2009,0
 16191,Tony Hawk: Shred,4708,Sports,PS3,Activision,Robomodo,180000,60000,0,40000,290000,10,2010,0
-16192,Home Run,4713,Sports,2600,Atari,Atari,140000,10000,0,0,150000,1,1978,0
 16193,Top Spin 3,4727,Sports,Wii,2K Sports,Pam Development,150000,370000,0,70000,580000,6,2008,0
 16194,Ski and Shoot,4735,Sports,Wii,Conspiracy Entertainment,49Games,40000,40000,0,10000,90000,12,2008,0
 16195,Backyard Baseball '10,4741,Sports,PS2,Atari,Atari,80000,70000,0,20000,170000,4,2009,0
@@ -16367,7 +16347,6 @@
 16365,Backyard NFL Football '10,5194,Sports,X360,Atari,Humongous Entertainment,100000,0,0,10000,110000,10,2009,0
 16366,MVP Baseball 2004,5195,Sports,GC,EA Sports,EA Sports,200000,50000,0,10000,260000,3,2004,0
 16367,Winning Post 7 2012,5197,Sports,PSP,Tecmo Koei,Koei Tecmo Games,0,0,40000,0,40000,3,2012,0
-16368,PDC World Championship Darts 2008,5202,Sports,PC,Unknown,Mere Mortals,0,10000,0,0,10000,1,1970,0
 16369,Hot Shots Golf: Open Tee,5207,Sports,PSP,Sony Computer Entertainment,Clap Hanz,500000,500000,630000,330000,1960000,5,2005,1
 16370,Wakeboarding Unleashed Featuring Shaun Murray,5210,Sports,XB,Activision,Shaba Games,40000,10000,0,0,50000,6,2003,0
 16371,RealSports Volleyball,5213,Sports,2600,Atari,Atari,120000,10000,0,0,130000,1,1982,0
@@ -16740,7 +16719,6 @@
 16738,Worms World Party,273,Strategy,PC,Titus,Team17 Software,0,0,0,0,100000,6,2001,0
 16739,Gary Grigsby's World at War,274,Strategy,PC,Unknown,2 by 3 Games,0,0,0,0,100000,3,2021,0
 16740,Celtic Kings: Rage of War,275,Strategy,PC,Strategy First,Haemimont Games,0,0,0,0,100000,8,2002,0
-16741,Sins of a Solar Empire: Rebellion,276,Strategy,PC,Unknown,Ironclad Games,0,0,0,0,100000,1,1970,0
 16742,Star Control 3,277,Strategy,PC,Accolade,Legend Entertainment,0,0,0,0,100000,8,1996,0
 16743,Deadlock: Planetary Conquest,278,Strategy,All,Accolade,Accolade,0,0,0,0,100000,8,1996,0
 16744,Worms: Open Warfare,279,Strategy,PSP,THQ,Team17 Software,0,0,0,0,100000,3,2006,0
@@ -17323,7 +17301,6 @@
 17321,Vanguard Bandits,3558,Strategy,PS,Working Designs,S-Neo,40000,30000,0,0,70000,4,2000,0
 17322,Age of Empires: Mythologies    Read the review,3559,Strategy,DS,THQ,Griptonite,160000,30000,0,20000,210000,11,2008,0
 17323,Drone Tactics,3564,Strategy,DS,Atlus,Success,10000,0,0,0,20000,5,2008,0
-17324,Defenders of Ardania,3566,Strategy,PC,Paradox Interactive,Most Wanted Entertainment,0,10000,0,0,10000,1,1970,0
 17325,UFO: Afterlight,3569,Strategy,PC,TopWare,Altar Interactive,0,0,0,0,0,5,2007,0
 17326,Thrillville: Off the Rails,3570,Strategy,PC,LucasArts,Frontier Developments,0,0,0,0,0,10,2007,0
 17327,Blitzkrieg: Rolling Thunder,3575,Strategy,PC,CDV Software Entertainment,Nival Interactive / La Plata Studios,0,0,0,0,0,11,2004,0
